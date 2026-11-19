@@ -6,6 +6,8 @@
 // @author       jj
 // @match        http*://*.catwar.net/cw3/
 // @match        http*://*.catwar.su/cw3/
+// @updateURL    https://github.com/jjjulienne/mushroom/raw/refs/heads/main/mushroomPNT.user.js
+// @downloadURL  https://github.com/jjjulienne/mushroom/raw/refs/heads/main/mushroomPNT.user.js
 // @icon         https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNUUkbYOyYNGbESfEPxyD3cf8TfJJtsoVow_RMTVquuQ&s==
 // @grant        none
 // ==/UserScript==
