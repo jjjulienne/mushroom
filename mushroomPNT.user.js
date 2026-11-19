@@ -16,18 +16,18 @@
     'use strict';
 
     const replacements = {
-        '11150': 'https://i.postimg.cc/Y0bb2Lfm/11150.png',
-        '11169': 'https://i.postimg.cc/Wpn9wxRn/11169.png',
-        '17970': 'https://i.postimg.cc/Y0bb2Lfg/11170.png',
-        '11171': 'https://i.postimg.cc/Pf46Q0Gy/11171.png',
+        '11150': 'https://i.postimg.cc/hj3cmbmm/11150.png',
+        '11169': 'https://i.postimg.cc/wvbgNcNL/11169.png',
+        '17970': 'https://i.postimg.cc/j2wK4w6J/17970.png',
+        '11171': 'https://i.postimg.cc/ydrsRXRm/11171.png',
         '11172': 'https://i.postimg.cc/DwD0Vh0J/11172.png',
-        '11173': 'https://i.postimg.cc/zDjdF4mx/11173.png',
-        '11174': 'https://i.postimg.cc/593PSDcP/11174.png',
-        '11175': 'https://i.postimg.cc/XN82ktMH/11175.png',
-        '11176': 'https://i.postimg.cc/CMNvs9yQ/11176.png',
-        '11177': 'https://i.postimg.cc/gcDMH191/11177.png',
+        '11173': 'https://i.postimg.cc/vBSbnLn7/11173.png',
+        '11174': 'https://i.postimg.cc/fLgDdjdv/11174.png',
+        '11175': 'https://i.postimg.cc/rmYM4C4J/11175.png',
+        '11176': 'https://i.postimg.cc/C16S8H8H/11176.png',
+        '11177': 'https://i.postimg.cc/pT1RjYjJ/11177.png',
         '17969': 'https://i.postimg.cc/jqX84BVm/ZABA.png',
-        '11170': 'https://i.postimg.cc/65VvD4Lj/11170-R.png',
+        '11170': 'https://i.postimg.cc/d1SwCmC8/11170.png',
 
     };
 
