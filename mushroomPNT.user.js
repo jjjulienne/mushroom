@@ -16,7 +16,6 @@
     'use strict';
 
     const replacements = {
-        '11150': 'https://i.postimg.cc/hj3cmbmm/11150.png',
         '11169': 'https://i.postimg.cc/wvbgNcNL/11169.png',
         '17970': 'https://i.postimg.cc/j2wK4w6J/17970.png',
         '11171': 'https://i.postimg.cc/ydrsRXRm/11171.png',
